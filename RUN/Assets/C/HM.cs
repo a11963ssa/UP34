@@ -65,17 +65,17 @@ public class HM : MonoBehaviour{
         RG2D = GetComponent<Rigidbody2D>();
         cabera = GameObject.Find("Main Camera").transform;
         s2_1.text = "跳躍";
-        s2_1.color = new Color(1, 1, 1, 1f);
+        s2_1.color = Color.black;
         s2_2.text = "滑行";
-        s2_2.color = new Color(1, 1, 1, 1f);
+        s2_2.color = Color.black;
         s2_3.text = "重新開始";
-        s2_3.color = new Color(1, 1, 1, 1f);
+        s2_3.color = Color.black;
         s2_4.text = "關閉遊戲";
-        s2_4.color = new Color(1, 1, 1, 1f);
+        s2_4.color = Color.black;
         s2_5.text = "計時";
-        s2_5.color = new Color(1, 1, 1, 1f);
+        s2_5.color = Color.black;
         s2_6.text = "總分";
-        s2_6.color = new Color(1, 1, 1, 1f);
+        s2_6.color = Color.black;
 
     }
     /// <summary>
