@@ -1,0 +1,16 @@
+{
+"companyName": "11",
+"productName": "11",
+"productVersion": "0.1",
+"dataUrl": "MD.data.unityweb",
+"wasmCodeUrl": "MD.wasm.code.unityweb",
+"wasmFrameworkUrl": "MD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.15f1"
+}
